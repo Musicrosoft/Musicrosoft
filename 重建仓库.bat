@@ -1,7 +1,7 @@
 git init
 git add .
-git commit -m "ÖØ½¨²Ö¿â"
+git commit -m "é‡å»ºä»“åº“"
 
-git remote add origin https://github.com/1028417/Musicrosoft.git
+git remote add origin https://github.com/Musicrosoft/XMusic.git
 git push -f -u origin master
 pause
